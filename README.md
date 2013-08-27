@@ -32,9 +32,11 @@ Wrappers
   <dt>CocoonJS</dt>
   <dd>High Performance, No extendibility</dd>
   <dt>Game Closure</dt>
-  <dd>High Performance, Good extendibility, Young product, open source</dd>
+  <dd>High Performance, Good extendibility, -Young- Insane good product, open source</dd>
   <dt>Web Marmelade</dt>
   <dd>Mid Performance, Good extendibility, Pricy!!!</dd>
+  <dt>SpellJS</dt>
+  <dd>Still to come</dd>
   <dt>...</dt>
   <dd>more coming!</dd>
 </dl>
