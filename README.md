@@ -14,9 +14,9 @@ Game Engines
   <dd>Motto: A simple JavaScript framework for creating games and apps</dd>
   <dt>[IsogenicJS](http://www.isogenicengine.com/)</dt>
   <dd>Motto: The world's most advanced HTML5 multiplayer game engine</dd>
-  <dt>ImpactJS</dt>
+  <dt>[ImpactJS](http://impactjs.com/)</dt>
   <dd>Motto: THE AWESOMEST WAY TO CREATE EVEN MORE AWESOME HTML5 GAMES!</dd>
-  <dt>MelonJS</dt>
+  <dt>[MelonJS](http://melonjs.org/)</dt>
   <dd>Motto: A lightweight HTML5 game engine</dd>
   <dt>...</dt>
   <dd>more coming!</dd>
