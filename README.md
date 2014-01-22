@@ -11,13 +11,13 @@ Game Engines
 -------------------------------
 <dl>
   <dt>[EnchantJS](http://enchantjs.com/)</dt>
-  <dd>--description--</dd>
-  <dt>IsometricJS</dt>
-  <dd>--description--</dd>
+  <dd>Motto: A simple JavaScript framework for creating games and apps</dd>
+  <dt>[IsogenicJS](http://www.isogenicengine.com/)</dt>
+  <dd>Motto: The world's most advanced HTML5 multiplayer game engine</dd>
   <dt>ImpactJS</dt>
-  <dd>--description--</dd>
+  <dd>Motto: THE AWESOMEST WAY TO CREATE EVEN MORE AWESOME HTML5 GAMES!</dd>
   <dt>MelonJS</dt>
-  <dd>--description--</dd>
+  <dd>Motto: A lightweight HTML5 game engine</dd>
   <dt>...</dt>
   <dd>more coming!</dd>
 </dl>
@@ -39,13 +39,4 @@ Wrappers
   <dd>Still to come</dd>
   <dt>...</dt>
   <dd>more coming!</dd>
-</dl>
-
-
-Sperimental
--------------------------------
-
-<dl>
-  <dt>EjactaX</dt>
-  <dd>...</dd>
 </dl>
