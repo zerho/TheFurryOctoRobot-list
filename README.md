@@ -18,6 +18,11 @@ Game Engines
   <dd>Motto: THE AWESOMEST WAY TO CREATE EVEN MORE AWESOME HTML5 GAMES!</dd>
   <dt>[MelonJS](http://melonjs.org/)</dt>
   <dd>Motto: A lightweight HTML5 game engine</dd>
+  <dt>[KineticJS](http://kineticjs.com/)</dt>
+  <dd>Motto: An HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.</dd>
+  <dt>[Construct2](https://www.scirra.com/)</dt>
+  <dd>Motto: Construct 2 is a game maker for Windows that lets everyone create amazing games.</dd>
+<dd>!!!: IDE, no Code</dd>
   <dt>...</dt>
   <dd>more coming!</dd>
 </dl>
