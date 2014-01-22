@@ -10,7 +10,7 @@ so it started writing is own list.
 Game Engines
 -------------------------------
 <dl>
-  <dt>EnchantJS</dt>
+  <dt>[EnchantJS](http://enchantjs.com/)</dt>
   <dd>--description--</dd>
   <dt>IsometricJS</dt>
   <dd>--description--</dd>
